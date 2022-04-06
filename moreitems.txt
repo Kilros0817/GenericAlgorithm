@@ -1,0 +1,35 @@
+Cell phone, 0.25, 600
+Gaming laptop, 10, 2000
+Jewelry, 0.5, 500
+Kindle, 0.5, 300
+Video game console, 3, 500
+Small cuckoo clock, 5, 1500
+Silver paperweight, 2, 400
+Cell phone 2, 0.25, 600
+Gaming laptop 2, 10, 2000
+Jewelry 2, 0.5, 500
+Kindle 2, 0.5, 300
+Video game console 2, 3, 500
+Small cuckoo clock 2, 5, 1500
+Silver paperweight 2, 2, 400
+Cell phone 3, 0.25, 600
+Gaming laptop 3, 10, 2000
+Jewelry 3, 0.5, 500
+Kindle 3, 0.5, 300
+Video game console 3, 3, 500
+Small cuckoo clock 3, 5, 1500
+Silver paperweight 3, 2, 400
+Cell phone 4, 0.25, 600
+Gaming laptop 4, 10, 2000
+Jewelry 4, 0.5, 500
+Kindle 4, 0.5, 300
+Video game console 4, 3, 500
+Small cuckoo clock 4, 5, 1500
+Silver paperweight 4, 2, 400
+Cell phone 5, 0.25, 600
+Gaming laptop 5, 10, 2000
+Jewelry 5, 0.5, 500
+Kindle 5, 0.5, 300
+Video game console 5, 3, 500
+Small cuckoo clock 5, 5, 1500
+Silver paperweight 5, 2, 400
